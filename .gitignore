@@ -1,0 +1,8 @@
+# Editor Cruft
+*~
+
+# Python Cruft
+*.pyc
+
+# Database
+server_data
